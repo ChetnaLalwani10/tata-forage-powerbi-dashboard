@@ -36,4 +36,7 @@ This project is for educational and portfolio purposes only. The dataset is part
 
 ---
 
+## 🔗 Project Demo
+Check the dashboard visuals here: https://www.linkedin.com/posts/chetna-lalwani-2a282a203_tataforage-datavisualization-dataanalytics-activity-7297507668129202177-zh1E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPp9xoBlKaJhdo7pqM7V5SJ6BfD-FHGqs0
+
 © 2025 Chetna Lalwani. All Rights Reserved.
